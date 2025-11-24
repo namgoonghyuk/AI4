@@ -75,7 +75,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
      }abe{0} :("texts": [짬뽕],"images": ["https://recipe1.ezmember.co.kr/cache/recipe/2020/11/28/2c2544a9719cccc3a794efe4ca994cd51.jpg"],"videos": ["https://www.youtube.com/watch?v=3FBKcTumM5w"]),
      }abe{0} :("texts": [탕수육 ],"images": ["https://static.hubzum.zumst.com/hubzum/2018/09/04/13/868a77c37e374f1fa5e93c766b70fcf9_780x0c.jpg"],"videos": ["https://www.youtube.com/watch?v=MtqZekQbE_0"]),
-     }abe{0} :("texts": [중국식 냉면],"images": ["https://www.kfoodtimes.com/news/photo/202106/16159_27527_3716.png"],"videos": ["https://www.youtube.com/watch?v=JGPPYe7l6qE"]),
+     }abe{0} :("texts": [중국식 냉면],"images": ["https://data.ygosu.com/upload_files/board_food/77263/60eb63ad53e6a.jpg"],"videos": ["https://www.youtube.com/watch?v=JGPPYe7l6qE"]),
      }abe{0} :("texts": [짜장면],"images": ["https://img.siksinhot.com/article/1614912249689885.jpg"],"videos": ["https://www.youtube.com/watch?v=tQUTkWfHdO8"]),
 # ======================
 # 유틸
