@@ -77,7 +77,6 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labes{1} : {"texts": [탕수육],"images": ["https://static.hubzum.zumst.com/hubzum/2018/09/04/13/868a77c37e374f1fa5e93c766b70fcf9_780x0c.jpg"]},
      labes{2} : {"texts": [짬뽕],"images": ["https://recipe1.ezmember.co.kr/cache/recipe/2020/11/28/2c2544a9719cccc3a794efe4ca994cd51.jpg"]},
      labes{3} : {"texts": [짜장면],"images": ["https://img.siksinhot.com/article/1614912249689885.jpg"]},
-
 }
 # ======================
 def load_pil_from_bytes(b: bytes) -> Image.Image:
