@@ -73,10 +73,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
-labes{0} : {"texts": ["중국식 냉면"],"images": ["https://data.ygosu.com/upload_files/board_food/77263/60eb63ad53e6a.jpg"]},
-labes{1} : {"texts": ["짜장면"],"images": ["https://img.siksinhot.com/article/1614912249689885.jpg"]},
-labes{2} : {"texts": ["짬뽕"],"images": ["https://recipe1.ezmember.co.kr/cache/recipe/2020/11/28/2c2544a9719cccc3a794efe4ca994cd51.jpg"]},
-labes{3} : {"texts": ["탕수육"],"images": ["https://static.hubzum.zumst.com/hubzum/2018/09/04/13/868a77c37e374f1fa5e93c766b70fcf9_780x0c.jpg"]},
+label{0} : {"texts": ["중국식 냉면"],"images": ["https://data.ygosu.com/upload_files/board_food/77263/60eb63ad53e6a.jpg"]},
+label{1} : {"texts": ["짜장면"],"images": ["https://img.siksinhot.com/article/1614912249689885.jpg"]},
+label{2} : {"texts": ["짬뽕"],"images": ["https://recipe1.ezmember.co.kr/cache/recipe/2020/11/28/2c2544a9719cccc3a794efe4ca994cd51.jpg"]},
+label{3} : {"texts": ["탕수육"],"images": ["https://static.hubzum.zumst.com/hubzum/2018/09/04/13/868a77c37e374f1fa5e93c766b70fcf9_780x0c.jpg"]},
 }
 # ======================
 def load_pil_from_bytes(b: bytes) -> Image.Image:
